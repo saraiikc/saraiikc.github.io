@@ -1,6 +1,6 @@
 # Katy Colindres's Portfolio
 
-Hi! Welcome to my home page! My name is Katy Colindres and I am currently a Computer Science student at the California State University of Fulllerton, hopefully graduating in 2027!
+Hi! Welcome to my home page! My name is Katy Colindres and I am currently a Computer Science student at the California State University of Fullerton, hopefully graduating in 2027!
 
 ## My Favorite CPSC 120L Labs
 
