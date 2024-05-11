@@ -10,7 +10,7 @@ My Favorite Labs: My Milestones as a Computer Scientist
 
 * Lab 3: 
 
-  Lab 3, both parts 1 and 2, was a favorite because it was the first lab where my partner was just as lost as I was with the lab. Yes, it was nice to have partners who knew a bit more about what they were doing and in turn would be great guides throughout the process of the lab, but I really enjoyed being able to have to problem solve and figure out on our own what to do next. I feel like that lab truly set a foundation for me as it made me feel like I genuinely could become a programmer if I just let myself work through things and not feel bad about not getting things right the first time because I knew that I would get there eventually.
+  Lab 3, both parts 1 and 2, was a favorite because it was the first lab where my partner was just as lost as I was with the lab. Yes, it was nice to have partners who knew a bit more about what they were doing and in turn would be great guides throughout the process of the lab, but I really enjoyed being able to have to problem solve and figure out on our own what to do next. Starting to use more complicated math equations in our program was a bit confusing, especially since we had to use two very slightly different equations that would mix us up. I feel like that lab truly set a foundation for me as it made me feel like I genuinely could become a programmer if I just let myself work through things and not feel bad about not getting things right the first time because I knew that I would get there eventually.
 
 * Lab 7, Part 2:
 
